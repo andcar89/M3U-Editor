@@ -18,6 +18,16 @@ A single self-contained HTML page for editing IPTV M3U playlists in your browser
 
 Just open `Playlist Bench — M3U Editor.html` in a modern browser (Chrome or Firefox recommended). Everything runs client-side; no data is sent to any server except the playlist/EPG/logo sources you explicitly load.
 
+Alternatively, if GitHub Pages is enabled for this repo (Settings → Pages → Deploy from branch → `main` / root), `index.html` will redirect straight to the tool.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a history of changes.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+**Note:** This app was built with AI assistance (Claude, by Anthropic) — every feature, fix, and line in this repo was written by Claude, prompted and directed by a human. It's a personal project, provided as-is with no warranty; use it at your own discretion.
