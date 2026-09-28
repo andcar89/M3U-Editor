@@ -1,6 +1,6 @@
 # M3U Editor (Playlist Bench)
 
-A single self-contained HTML page for editing IPTV M3U playlists in your browser — no install, no server, no build step. Open `index.html` (or use it via GitHub Pages) and load a playlist from a local file, a URL, or an Xtream Codes portal.
+A single self-contained HTML page for editing IPTV M3U playlists in your browser — no install, no server, no build step. Open `Playlist Bench — M3U Editor.html` and load a playlist from a local file, a URL, or an Xtream Codes portal.
 
 ## Features
 
@@ -16,9 +16,7 @@ A single self-contained HTML page for editing IPTV M3U playlists in your browser
 
 ## Usage
 
-Just open `index.html` in a modern browser (Chrome or Firefox recommended). Everything runs client-side; no data is sent to any server except the playlist/EPG/logo sources you explicitly load.
-
-If you're hosting this via GitHub Pages, enable Pages for this repo (Settings → Pages → Deploy from branch → `main` / root) and it will be served directly from `index.html`.
+Just open `Playlist Bench — M3U Editor.html` in a modern browser (Chrome or Firefox recommended). Everything runs client-side; no data is sent to any server except the playlist/EPG/logo sources you explicitly load.
 
 ## License
 
